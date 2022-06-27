@@ -12,7 +12,7 @@ body {
 .head-name {
   color: rgb(243, 106, 127);
 }
-.header {
+.flexible-container {
   display: flex;
   margin-bottom: 100px;
 }
