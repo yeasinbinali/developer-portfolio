@@ -1,0 +1,31 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+::selection {
+  color: rgb(255, 89, 89);
+  background-color: none;
+}
+.header-name {
+  font-size: 30px;
+}
+.head-name {
+  color: rgb(243, 106, 127);
+}
+.header {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding: 30px 40px;
+}
+.half-width img {
+  width: 80%;
+}
+.link-btn {
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(rgb(233, 103, 168), rgb(221, 152, 164));
+  padding: 5px 15px;
+  font-weight: 700;
+  border-radius: 8px;
+}
