@@ -1,5 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0;
 }
 ::selection {
   color: rgb(255, 89, 89);
@@ -13,6 +14,7 @@ body {
 }
 .header {
   display: flex;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
